@@ -15,6 +15,11 @@ public class greatestNumber {
             max = y;
         else 
             max = z;
+        System.out.println("The value of x: " + x);
+        System.out.println("The value of x: " + y);
+        System.out.println("The value of x: " + z);
+
         System.out.println("The largest number is: " + max);
+
     }
 }
