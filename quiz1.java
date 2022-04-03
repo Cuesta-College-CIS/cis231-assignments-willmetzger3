@@ -6,7 +6,7 @@ public class quiz1 {
 	public static void main(String[] args) {
 		final int CNT = 5;
 		int minval=100, minidx=0, tmp=0,i,j;
-
+ 
 		Scanner scnr = new Scanner(System.in);
 		int N = scnr.nextInt();
 		int[] numbers = new int[N];

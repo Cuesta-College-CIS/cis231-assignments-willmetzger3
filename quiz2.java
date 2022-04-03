@@ -18,7 +18,7 @@ public class quiz2 {
 
             for (i=0; i<M; i++)
                 sum += matrix1[rowidx][i] * matrix2[i][0];
-            for (i=0; i<M; i++)
+            for (i=0; i<M; i++) 
                 sum1 += matrix1[rowidx][i] * matrix2[i][1];
         System.out.println(sum + " " +sum1);
 
